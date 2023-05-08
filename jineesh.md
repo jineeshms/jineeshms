@@ -1,5 +1,10 @@
-# 10 days internship
-## about
-theme
-*day 1*
-> j 10 
+# 10 days internship 
+```
+#include<iostream.h>
+main()
+
+print("hi"):
+}
+...
+
+[ak](https://www.github.com/ak)
